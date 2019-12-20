@@ -1,0 +1,6 @@
+name:-myname
+logo_rute:-logo.jpg
+address:-myaddress
+city:-mycity
+postal_code:-myzip
+phone_number:-999999999

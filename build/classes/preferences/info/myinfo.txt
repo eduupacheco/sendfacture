@@ -1,0 +1,6 @@
+name:-Zekrix
+logo_rute:-logo.jpg
+address:-Marvel
+city:-Españita
+postal_code:-38083
+phone_number:-687152842
